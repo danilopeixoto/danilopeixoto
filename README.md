@@ -1,8 +1,8 @@
 # Hello World!
 
-I'm a software engineer. Web services, 3D rendering, computer vision, numerical simulation, anything...
+I'm a software engineer using generic and object-oriented programming to create performance and reliable applications. Mainly interested in computer graphics, computer vision, physics based simulation, distributed computing, compiler design and programming languages.
 
-Some of the things that mankind has invented that I think are extraordinary:
+Some of the things the mankind invented that I found extraordinary:
 
 * Movies
 * Books
